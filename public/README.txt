@@ -1,0 +1,1 @@
+Place your own CineMate logo/assets here. Use licensed or public-domain media assets.

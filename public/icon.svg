@@ -1,0 +1,23 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="48" height="48" rx="12" fill="#0A0A0E" />
+  <defs>
+    <linearGradient id="d-white-facets-svg" x1="6" y1="4" x2="38" y2="44" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stopColor="#FFFFFF" />
+      <stop offset="55%" stopColor="#F4F4F5" />
+      <stop offset="100%" stopColor="#D4D4D8" />
+    </linearGradient>
+    <linearGradient id="d-red-slash-svg" x1="16" y1="8" x2="42" y2="40" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stopColor="#FF334B" />
+      <stop offset="45%" stopColor="#E50914" />
+      <stop offset="100%" stopColor="#991B1B" />
+    </linearGradient>
+  </defs>
+  <g>
+    <path d="M8 6L19 6L14.5 42L8 42C6.89543 42 6 41.1046 6 40L6 8C6 6.89543 6.89543 6 8 6Z" fill="url(#d-white-facets-svg)" />
+    <path d="M17 6L32 6C38.6274 6 44 11.3726 44 18C44 21.6 42.4 24.8 39.8 27L31.5 16L31 14C31 12.8954 30.1046 12 29 12L17.8 12L17 6Z" fill="url(#d-white-facets-svg)" />
+    <path d="M21 9L43.5 35L35 42L14 16L21 9Z" fill="url(#d-red-slash-svg)" />
+    <path d="M13 36L27 36C32 36 36.5 33 39 29L33.5 22.5C31.5 25.5 28 27.5 24 27.5L14 27.5L13 36Z" fill="url(#d-white-facets-svg)" />
+    <path d="M18 14.5L27.5 14.5C31 14.5 34 17 34.8 20.5L25 32L17 32L18 14.5Z" fill="#0A0A0E" />
+    <path d="M30 18L42 32.5L37.5 37.5L25.5 23L30 18Z" fill="url(#d-red-slash-svg)" opacity="0.9" />
+  </g>
+</svg>
